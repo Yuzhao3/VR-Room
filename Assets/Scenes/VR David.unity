@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18296675, g: 0.22628842, b: 0.29306814, a: 1}
+  m_IndirectSpecularColor: {r: 0.18296605, g: 0.22628754, b: 0.2930663, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3720,7 +3720,7 @@ MonoBehaviour:
   m_text: 'Welcome to my VR Room!
 
 
-    Press thumbstick to toggle rays, stupid.'
+    Press one on the keyboard to toggle rays. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c8ac1ed6123904112adeaf50e63c4731, type: 2}
   m_sharedMaterial: {fileID: 1693478669045529817, guid: c8ac1ed6123904112adeaf50e63c4731, type: 2}
