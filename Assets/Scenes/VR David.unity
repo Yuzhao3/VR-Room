@@ -143,7 +143,7 @@ MonoBehaviour:
   playAtStart: 0
   videoMaterial: {fileID: 0}
   videoClips:
-  - {fileID: 32900000, guid: c675fc381244840f4900887e1b0870d7, type: 3}
+  - {fileID: 32900000, guid: cd4b82f2f68564df2b6581501505d2a8, type: 3}
 --- !u!328 &31999579
 VideoPlayer:
   m_ObjectHideFlags: 0
