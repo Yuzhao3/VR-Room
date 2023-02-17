@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: -0.11466907, y: 0.987132, z: 0.03184508, w: -0.10680543}
   m_LocalPosition: {x: 0.0169, y: -0.0033, z: 0.0015}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 5
@@ -71,6 +72,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0.11094857, w: 0.9938262}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 1
@@ -115,6 +117,7 @@ Transform:
   m_LocalRotation: {x: 0.0041572195, y: -0.6662528, z: -0.10528827, w: 0.7382441}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 3
@@ -159,6 +162,7 @@ Transform:
   m_LocalRotation: {x: -0.067008, y: -0.005479632, z: -0.08131931, w: 0.99441797}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 2
@@ -203,6 +207,7 @@ Transform:
   m_LocalRotation: {x: -0.115311906, y: 0.6837117, z: 0.017112803, w: 0.72038096}
   m_LocalPosition: {x: 0.0169, y: -0.0033, z: 0.0015}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 4
@@ -248,6 +253,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5707316573939530995}
   - {fileID: 1626112197927641373}
@@ -277,6 +283,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -285,7 +292,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4f816cbd04e37fa47ae16f6a8a40a59d, type: 2}
+  - {fileID: 2100000, guid: 44b2a3a1458da6a4a94c228d967474ad, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -334,6 +341,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8632090301300553980}
   m_RootOrder: 0
